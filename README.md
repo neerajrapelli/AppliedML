@@ -686,7 +686,7 @@ plt.show()
 
 
     
-![png](HumanActivityRecognition_UCI_files/HumanActivityRecognition_UCI_34_0.png)
+![png](HumanActivityRecognition_UCI_34_0.png)
     
 
 
@@ -782,6 +782,6 @@ plt.show()
 
 
     
-![png](HumanActivityRecognition_UCI_files/HumanActivityRecognition_UCI_39_0.png)
+![png](HumanActivityRecognition_UCI_39_0.png)
     
 
